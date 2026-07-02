@@ -81,12 +81,6 @@ This repository serves as a record of the completed setup process.
 
 ---
 
-## Repository
-
-GitHub Repository:
-
-**https://github.com/krishna93175/100hires-portfolio-project**
-
 ---
 
 **Author**
@@ -94,3 +88,6 @@ GitHub Repository:
 **G. Krishna Gopal**
 
 Email: krishna93175@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/g-krishna-gopal-6ab785334/
