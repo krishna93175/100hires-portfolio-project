@@ -1,0 +1,70 @@
+{
+    "project": {
+      "title": "AI-Powered SEO Content Production Research",
+      "version": "1.0.0",
+      "description": "Research repository of leading practitioners in AI-powered SEO content production for future playbook development.",
+      "created_by": "G. Krishna Gopal",
+      "last_updated": "2026-07-06"
+    },
+  
+    "research": {
+      "topic": "AI-Powered SEO Content Production",
+      "selection_criteria": [
+        "Active practitioner",
+        "Recent content (last 12 months preferred)",
+        "Original research or practical implementation",
+        "Strong reputation in B2B SaaS, SEO, or AI",
+        "Publicly accessible content",
+        "Useful for future playbook creation"
+      ]
+    },
+  
+    "experts": [
+  
+    ]
+  }"experts": [
+  {
+    "id": 1,
+    "priority": 1,
+
+    "name": "Ross Simmonds",
+    "company": "Foundation Marketing",
+    "role": "Founder & CEO",
+
+    "status": "verified",
+
+    "platforms": {
+      "website": "https://rosssimmonds.com",
+      "company": "https://foundationinc.co",
+      "linkedin": "https://www.linkedin.com/in/rosssimmonds",
+      "youtube": "",
+      "newsletter": "https://rosssimmonds.com"
+    },
+
+    "primary_focus": [
+      "AI-powered Content Marketing",
+      "Content Distribution",
+      "SEO",
+      "B2B Marketing",
+      "Content Repurposing"
+    ],
+
+    "content_sources": {
+      "website": true,
+      "blog": true,
+      "linkedin": true,
+      "youtube": true,
+      "newsletter": true,
+      "podcast": true
+    },
+
+    "api_collection": {
+      "youtube": "pending",
+      "linkedin": "manual",
+      "website": "manual",
+      "newsletter": "manual"
+    },
+
+    "notes": "Founder of Foundation Marketing and Distribution.ai. Strong emphasis on 'Create Once, Distribute Forever', AI-assisted content workflows, Reddit, YouTube, and B2B content distribution."
+  }
+]
