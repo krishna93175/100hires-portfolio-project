@@ -1,0 +1,692 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "EynZvxo7FoSP60m3VqTuRsayrkc",
+    "nextPageToken": "CBQQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+        "totalResults": 91,
+        "resultsPerPage": 20
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "f3nN_mez2VsLSqSGtVmsyBl1Avw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "al-FuoXXQCs"
+            },
+            "snippet": {
+                "publishedAt": "2025-12-20T13:15:19Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "The top SEO tip for 2026 of +12 SEO specialists",
+                "description": "Learn about the top SEO tip for 2026 of +12 SEO specialists, including Crystal Carter, Chris Green, Jonathan Jones, Myriam ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/al-FuoXXQCs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/al-FuoXXQCs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/al-FuoXXQCs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-12-20T13:15:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1KjOL2RsD2H3te2wvdlEBMRfebM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yrJe9E08llc"
+            },
+            "snippet": {
+                "publishedAt": "2025-12-18T22:29:41Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "SEO Predictions and expectations of +20 SEO specialists for 2026",
+                "description": "Learn about the SEO predictions and expectations from top specialists, featuring John Mueller, Barry Schwartz, Dawn Anderson, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yrJe9E08llc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yrJe9E08llc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yrJe9E08llc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-12-18T22:29:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jJp4HyF4Hdmh_Wm6rMmpQby5KbU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wQ-caZmJMoU"
+            },
+            "snippet": {
+                "publishedAt": "2025-12-01T20:43:33Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "\u200bOpenAI has introduced shopping research in ChatGPT - #SEOFOMO TL;DR December 1st, 2025",
+                "description": "The top SEO & AI Search News of the Week with #SEOFOMO TL;DR * \u200bOpenAI has introduced shopping research in ChatGPT ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wQ-caZmJMoU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wQ-caZmJMoU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wQ-caZmJMoU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-12-01T20:43:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sT_B811IDO_7kX3BHx_CpJCcLVs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BhrytLSY_ws"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-06T21:01:59Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "OpenAI announces Instant Checkout and the Agentic Commerce Protocol   - #SEOFOMO TL;DR Oct 6, 2025",
+                "description": "OpenAI announces Instant Checkout and the Agentic Commerce Protocol and other most popular SEO & AI Search News of the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BhrytLSY_ws/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BhrytLSY_ws/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BhrytLSY_ws/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-06T21:01:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IJG0f-OK0iVhQpomDqc0IoOHA_I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tk5BPPGMXxo"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-01T20:08:56Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "Google Released the August 2025 Spam Update - #SEOFOMO TL;DR September 1st, 2025",
+                "description": "The Hottest SEO and AI search stories of the week with #SEOFOMO TL;DR: * Google August 2025 Spam Update Impact Felt ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tk5BPPGMXxo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tk5BPPGMXxo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tk5BPPGMXxo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-01T20:08:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TkbavojGQzOIEENuhGtYMSf_yG0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h_lNpxVo784"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-18T20:13:51Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "Google Launches Preferred Sources  - #SEOFOMO TL;DR Aug 18, 2025",
+                "description": "Watch today's #SEOFOMO TL;DR, going through the most popular SEOFOMO News of the week: * Google launches Preferred ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h_lNpxVo784/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h_lNpxVo784/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h_lNpxVo784/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-18T20:13:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VEe50V456bkuVrQe7a7XpuvsJgQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WCQT4gX0lU8"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-11T18:00:48Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "Google Is Sending Less Traffic, but SEO Is Not Dead - #SEOFOMO TL;DR Aug 11, 2025",
+                "description": "Watch today's #SEOFOMO TL;DR, going through the most popular SEOFOMO SEO and AI search News of the week on August 11 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WCQT4gX0lU8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WCQT4gX0lU8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WCQT4gX0lU8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-11T18:00:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Kmmq0dcaTo1IXcGBK0W_fMmUWJc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pIexhQWn2BA"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-29T10:14:36Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "Google Tests Web Guide  Their AI Organized Search Results - #SEOFOMO TL;DR July 29, 2025",
+                "description": "Learn about the New Google's Web Guide Experiment, their AI Organized Search Results in today's #SEOFOMO TL;DR, going ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pIexhQWn2BA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pIexhQWn2BA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pIexhQWn2BA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-29T10:14:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1A1DTQ7tIdTP9iuDdwMvzn71SR4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gzax_65O0H4"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-21T20:18:14Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "Google&#39;s June 2025 core update Impact  - #SEOFOMO TL;DR July 21st, 2025",
+                "description": "Learn about the impact of Google's June 2025 Core Update in today's #SEOFOMO TL;DR, going through the most popular ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gzax_65O0H4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gzax_65O0H4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gzax_65O0H4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-21T20:18:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eRj6BKWJaG4HynYVpU-H6dOHOQA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MBzankTcT5w"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-20T14:23:23Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "How to Successfully Pitch and Speak at SEO &amp; Digital Marketing Events",
+                "description": "Learn how to successfully pitch and speak at SEO and digital marketing conferences in this edition with event organizers Kelvin ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MBzankTcT5w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MBzankTcT5w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MBzankTcT5w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-20T14:23:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Jt2NJTLTyuC1Z76ZNwGcRDqNRT0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "60tJyh5LtnE"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-07T19:37:12Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "The ChatGPT 4o System Prompt Leak - SEOFOMO TL; DR July 7, 2025",
+                "description": "Learn about ChatGPT 4o System Prompt Leak in today's #SEOFOMO TL;DR, going through the most popular SEOFOMO News: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/60tJyh5LtnE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/60tJyh5LtnE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/60tJyh5LtnE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-07T19:37:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "a68pme6UYZULzGTxaMUlMkgY8d4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LGvbEHyX5oE"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-01T15:10:13Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "Google AI Mode vs Traditional Search - #SEOFOMO TL;DR July 1st, 2025",
+                "description": "Learn about the differences between Google's AI Mode vs traditional search results with Aleyda Solis and Roxana Stingu in the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LGvbEHyX5oE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LGvbEHyX5oE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LGvbEHyX5oE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-01T15:10:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dLRv1qdI4GlFYfPuFbMbVigQ6BU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-4cu882OJ8E"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-09T21:50:12Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "Traditional SEO vs AI Search Optimization (GEO, AEO) - #SEOFOMO TL;DR June 9, 2025",
+                "description": "Learn about the differences and similarities between traditional SEO vs AI Search optimization (GEO, AEO) with SEO Consultants ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-4cu882OJ8E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-4cu882OJ8E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-4cu882OJ8E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-09T21:50:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VDUXvz_VKdCnR-HiEKm5QIvLRHM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lEtXlk0XTsI"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-02T15:07:00Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "AI Mode &amp; The Query Fan-Out Technique: How Google AI Search Works | The Latest in SEO [June 2, 2025]",
+                "description": "Learn all what you need to know about Google's AI Mode & The Query Fan-Out Technique to understand How Google AI Search ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lEtXlk0XTsI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lEtXlk0XTsI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lEtXlk0XTsI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-02T15:07:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JY5pDOnMsQrEl4JtUgFLjpp_K44",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ec8jDgmiksw"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-26T07:30:13Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "Google AI Mode Announcement Analysis - The Hottest in SEO News with SEOFOMO TL;DR",
+                "description": "Today's edition of the SEOFOMO TL;DR is dedicated to the announcement of AI Mode release in the US along with many other ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ec8jDgmiksw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ec8jDgmiksw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ec8jDgmiksw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-26T07:30:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fxp7HgLcLZu5LraO8GHkBLF8Ddw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9RnPm7jIvqs"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-19T18:22:53Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "The Hottest in SEO This Week from #SEOFOMO -  May 19, 2025",
+                "description": "Let's go through the latest in SEO News & Resources with the \"Hottest in SEO This Week\" From #SEOFOMO - May 19, 2025 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9RnPm7jIvqs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9RnPm7jIvqs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9RnPm7jIvqs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-19T18:22:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9-ysAM00dAvEheTsah0LauUvonI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tJ7nEvDDdvM"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-05T16:14:06Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "The Hottest in SEO This Week from #SEOFOMO - May 5, 2025",
+                "description": "Let's go through the latest in SEO News, Resources & Insights with the \"Hottest in SEO This Week\" From #SEOFOMO - May 5, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tJ7nEvDDdvM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tJ7nEvDDdvM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tJ7nEvDDdvM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-05T16:14:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6g9TEk41DsbTtaZmnnVOPWJ7t4g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3dIgmwfgs70"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-21T19:12:58Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "The Hottest in SEO This Week from #SEOFOMO - April 21",
+                "description": "Let's go through the latest in SEO News, Resources & Insights with the \"Hottest in SEO This Week\" From #SEOFOMO - April 21, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3dIgmwfgs70/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3dIgmwfgs70/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3dIgmwfgs70/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-21T19:12:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lRh40G5CS7pBp4Dzx50LC80dETs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8CeJf4pNO38"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-14T18:18:57Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "The Hottest in SEO This Week from #SEOFOMO - April 14",
+                "description": "Let's go through the latest in SEO News, Resources & Insights with the \"Hottest in SEO This Week\" From #SEOFOMO - April 14, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8CeJf4pNO38/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8CeJf4pNO38/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8CeJf4pNO38/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-14T18:18:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Y-AvtxxtfcG2rc7jMMLqR3WkUOg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "42haNphJ8Os"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-07T17:46:09Z",
+                "channelId": "UCOOJMCKqwalD1HEKAObvMpA",
+                "title": "The Hottest in SEO This Week from #SEOFOMO - April 7, 2025",
+                "description": "Let's go through the latest in SEO News, Resources & Insights with the \"Hottest in SEO This Week\" From hashtag#SEOFOMO ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/42haNphJ8Os/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/42haNphJ8Os/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/42haNphJ8Os/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crawling Mondays by Aleyda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-07T17:46:09Z"
+            }
+        }
+    ]
+}

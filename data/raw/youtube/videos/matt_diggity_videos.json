@@ -1,0 +1,692 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "4IZ2aWyjb5k8OY52svJgb7NpeKU",
+    "nextPageToken": "CBQQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+        "totalResults": 520,
+        "resultsPerPage": 20
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Rb-DJIKPA2oOrtZE63n78UWQDiQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fHuomy6gAOA"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-09T13:43:47Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "The Latest AI Search Loophole\u2026 Does It Actually Work?",
+                "description": "In this video, you'll learn how to: - Build a Digital PR campaign from scratch. - Gatecrash the sites that AI tools trust.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fHuomy6gAOA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fHuomy6gAOA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fHuomy6gAOA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-09T13:43:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QOfSrDORGoJ9kRz_BoshKWRvDlM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "L2SzqynqoF0"
+            },
+            "snippet": {
+                "publishedAt": "2026-05-04T13:00:00Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "Most important factor for A.I. citation",
+                "description": "In this video, learn why it is important for AI to trust you. Subscribe here ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L2SzqynqoF0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L2SzqynqoF0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L2SzqynqoF0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-05-04T13:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JT9b6OKc9ezA9MmC18XJQTbB6jY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oqqQtZZUbI8"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-23T13:00:00Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "Here&#39;s how A.I. reads your content...",
+                "description": "In this video, learn how to use headings to make AI read your content. Subscribe here ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oqqQtZZUbI8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oqqQtZZUbI8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oqqQtZZUbI8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-23T13:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wYdJDWT4ST6jViF-hOgvArui9Ng",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "f03ZfdtkMzk"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-20T13:02:53Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "Is Reddit REALLY The KEY to AI Search? Let\u2019s Find Out\u2026",
+                "description": "In this video, learn how to: - Get your brand into the Reddit threads AI tools pull info from - Gatecrash relevant online conversations ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f03ZfdtkMzk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f03ZfdtkMzk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f03ZfdtkMzk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-20T13:02:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4d0zScofaCqE-yNcflRj4bKbHRM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-xLw6IOYdhU"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-14T13:00:00Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "How to get cited by AI Overviews",
+                "description": "In this video, learn why direct and precise content is a key to getting cited by AI Overviews. Subscribe here ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-xLw6IOYdhU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-xLw6IOYdhU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-xLw6IOYdhU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-14T13:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uTrMvMUKMZr_DXNf2XmnbE8mA7s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "J3lJuu9iZ0M"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-03T13:00:00Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "Structure your YouTube videos like THIS",
+                "description": "In this video, learn how to structure your YouTube videos to keep people watching until the end. Subscribe here ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J3lJuu9iZ0M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J3lJuu9iZ0M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J3lJuu9iZ0M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-03T13:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yFszbIvbMXuAMHCBsNlJ2Zk22zA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jK5zegy5k5s"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-16T13:00:00Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "Try this secret YouTube algorithm hack",
+                "description": "In this video, learn about the YouTube algorithm golden rule and how you can leverage it. Subscribe here ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jK5zegy5k5s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jK5zegy5k5s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jK5zegy5k5s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-16T13:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VZTAFVZ6guWaonteOnIUk8ZDA6w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "W5EvBNQSJes"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-03T14:00:00Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "Master Talking Head Videos (as an Introvert)",
+                "description": "In this video, learn about the two ways of mastering the talking head videos. Subscribe here ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W5EvBNQSJes/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W5EvBNQSJes/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W5EvBNQSJes/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-03T14:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4QHrcP3ZafDSUxLtcgS9yVkiDGw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-fK3OaJ9Mjk"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-02T14:30:14Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "I Stopped Publishing New Content. Something Crazy Happened\u2026",
+                "description": "In this video, learn: - Where your audience is really searching - Repurpose your content the right way - Generate a metric ass ton ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-fK3OaJ9Mjk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-fK3OaJ9Mjk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-fK3OaJ9Mjk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-02T14:30:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sIB-DuvHkXQt4GhnzPOveWKVvew",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mTLkXBm7VT8"
+            },
+            "snippet": {
+                "publishedAt": "2026-02-23T14:00:00Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "Your Hidden Advantage as an Introvert",
+                "description": "In this video, learn what your secret superpower is as an introvert. Subscribe here ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mTLkXBm7VT8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mTLkXBm7VT8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mTLkXBm7VT8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-02-23T14:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "N4gf234IErM3w96V6igIdxYZuAo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Fp9djIiztUg"
+            },
+            "snippet": {
+                "publishedAt": "2026-02-06T14:00:00Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "How to make Million-Dollar deal (SEO Angel Investing)",
+                "description": "In this video, learn how to make a good deal for you in SEO angel investing. Subscribe here ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Fp9djIiztUg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Fp9djIiztUg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Fp9djIiztUg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-02-06T14:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8xu3bigVe2mLVac9bKBjc-lTfDQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iLZ8gF-JI98"
+            },
+            "snippet": {
+                "publishedAt": "2026-01-19T14:00:00Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "Get Started with SEO Angel Investing (Step-by-Step)",
+                "description": "In this video, learn how to get started in the SEO angel investing. Subscribe here ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iLZ8gF-JI98/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iLZ8gF-JI98/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iLZ8gF-JI98/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-01-19T14:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dkfOy804WmI9Z1QIKGQ2KAaYd2Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4dAsEbDkOtM"
+            },
+            "snippet": {
+                "publishedAt": "2026-01-05T14:00:17Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "SEO Angel Investing for newbies",
+                "description": "In this video, learn what an angel investor is. Subscribe here \u25bb\u25bb https://www.youtube.com/MattDiggity?sub_confirmation=1 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4dAsEbDkOtM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4dAsEbDkOtM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4dAsEbDkOtM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-01-05T14:00:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oEFAPKRMe9zNRLbNYQjEK0WfG54",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rRZIfqjkEew"
+            },
+            "snippet": {
+                "publishedAt": "2025-12-24T13:45:09Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "How to make the MOST money from SEO",
+                "description": "In this video, learn how to make the MOST money from SEO. Subscribe here ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rRZIfqjkEew/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rRZIfqjkEew/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rRZIfqjkEew/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-12-24T13:45:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uWmmaNYYAdxrxK4OMNEjg-ep02g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lsYAh2uDw5Y"
+            },
+            "snippet": {
+                "publishedAt": "2025-12-05T14:00:00Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "Are you a Visionary or Integrator?",
+                "description": "In this video, learn what the difference is between visionary and integrator, and why you should find out who you are ASAP.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lsYAh2uDw5Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lsYAh2uDw5Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lsYAh2uDw5Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-12-05T14:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kP7Nl-Dz6--BeVtgBGVT8HqidTM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zwuz9RgxKOg"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-24T14:01:53Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "How to Hire and Manage Teams Like a Pro",
+                "description": "In this video, learn why you should always hire your direct reports along with anyone else. Subscribe here ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zwuz9RgxKOg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zwuz9RgxKOg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zwuz9RgxKOg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-24T14:01:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "L0Efqx6ODGnT_H4QcpTUWjK-1sc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "41wpx5bTyVo"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-13T14:00:10Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "Hit Your Financial Goals by Calculating your EHR",
+                "description": "In this video, learn why it is important to calculate your EHR and how it can help you hit your financial goals. Subscribe here ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/41wpx5bTyVo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/41wpx5bTyVo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/41wpx5bTyVo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-13T14:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "t5PTUpZJWmQQa6HBIxcC07qbDE0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zPGgoe3blP0"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-03T13:02:07Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "Why I charge $3,000/hour to Coach Entrepreneurs",
+                "description": "In this video, learn why I charge $3000/ hour to coach entrepreneurs. Subscribe here ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zPGgoe3blP0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zPGgoe3blP0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zPGgoe3blP0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-03T13:02:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dn2mpATnXPDfRsbQlJd-yYAWYN4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xG9Vu9yrQzw"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-29T13:00:38Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "I Let an AI Run my SEO Campaign.  Here\u2019s what happened\u2026",
+                "description": "In this video, learn how to set up an AI bot to run your SEO campaign. Check Out the Full Article ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xG9Vu9yrQzw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xG9Vu9yrQzw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xG9Vu9yrQzw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-29T13:00:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "erN234tSeS4APcyMP9Kd7-kys-k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "F6NtG010yHA"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-15T13:00:36Z",
+                "channelId": "UCP5A5lVxaT7cO_LehpxjTZg",
+                "title": "Avoid THIS Deadly Personal Branding Mistake\u2026",
+                "description": "In this video, learn why being authentic is super important when building your personal brand. Subscribe here ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F6NtG010yHA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F6NtG010yHA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F6NtG010yHA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Diggity",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-15T13:00:36Z"
+            }
+        }
+    ]
+}

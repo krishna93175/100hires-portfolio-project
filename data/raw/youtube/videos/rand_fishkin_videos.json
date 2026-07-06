@@ -1,0 +1,692 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "kW4g0GqquIXfPEOK0yyxXsKj2Ms",
+    "nextPageToken": "CBQQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+        "totalResults": 65,
+        "resultsPerPage": 20
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HoCQJS_oCGqyYdSISu8qMrGqefU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KPWpWkcIjSQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-30T14:00:31Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "Take Action Launch Video",
+                "description": "When LLMs give marketing ideas on their own, the results are bland and boring. I can't fully explain why, but I usually end up ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KPWpWkcIjSQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KPWpWkcIjSQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KPWpWkcIjSQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-30T14:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gN1BFCXxGr5ryn4QYzc-TJaXbQ4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DP27DHUKk_M"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-26T14:00:15Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "Agency Survey 2025",
+                "description": "Are things rough for agency owners right now? I don't like to answer with an opinion. I prefer to answer with data. Paddy Moogan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DP27DHUKk_M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DP27DHUKk_M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DP27DHUKk_M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-26T14:00:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FLVJKV4BVpDVVD4ZdfqCKRuj22E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-ZvgIawP0b8"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-23T14:00:00Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "Mike King on Spark Toro Office Hours: Getting into AI",
+                "description": "You've probably seen people saying AIO is just SEO. I was skeptical too until I watched Mike King present at a conference in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-ZvgIawP0b8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-ZvgIawP0b8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-ZvgIawP0b8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-23T14:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3_Z8yY1erWcQqYCiKl4FWW4qPGM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "U0OtoDIz9SY"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-19T14:00:52Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "The Pinball User Journey Replaces the Funnel",
+                "description": "The marketing funnel isn't entirely wrong, but the analogy doesn't hold up like it used to. Today it works more like a pinball ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U0OtoDIz9SY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U0OtoDIz9SY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U0OtoDIz9SY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-19T14:00:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YbpnCfc6y6W4xA5FoQJdRr55CkM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ECfKyQHq3UY"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-16T14:00:31Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "Compare Affinity of Websites Over Time",
+                "description": "New SparkToro feature: audience affinity over time. You can now compare current results to any previous quarter going back to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ECfKyQHq3UY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ECfKyQHq3UY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ECfKyQHq3UY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-16T14:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "F7PKrpqDnzz6uQroFePBkuNYBs8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JbMKU-ncAFo"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-12T14:00:29Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "AI Consistency Research 5 Minute Whiteboard",
+                "description": "People trust AI results. But should they? Ask \"what are the best cancer care hospitals on the West Coast\" twice and you'll get ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JbMKU-ncAFo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JbMKU-ncAFo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JbMKU-ncAFo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-12T14:00:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vVEDlSx-tBykMsYd0ZZLWuugNUw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XBFx9Te7DW4"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-09T14:00:47Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "Quote it Cite it Link it Share it",
+                "description": "Look at your Google Search Console and consider the ratio of clicks to impressions. When someone searches \"what is SparkToro ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XBFx9Te7DW4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XBFx9Te7DW4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XBFx9Te7DW4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-09T14:00:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4NPv5XoPhQWrtTQ4WH1_DlREHvQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OSGp4P29jBg"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-05T15:00:45Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "Zero Click Searches Pass 66%",
+                "description": "I believe we're finally here: two-thirds of all Google searches now end without a visit to any other website. Desktop data from ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OSGp4P29jBg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OSGp4P29jBg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OSGp4P29jBg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-05T15:00:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8A3zP54APyuyUTeKcodo4KTfoy4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iXeC9A9VHGo"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-02T15:01:15Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "New usage graphs in Spark Toro",
+                "description": "The number one rule of data visualization: make it obvious. We just updated SparkToro's graphs to show both usage and the delta ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iXeC9A9VHGo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iXeC9A9VHGo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iXeC9A9VHGo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-02T15:01:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "I9tgrKrrZ1LHAbHCPNMiB4y7zHQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AlwYiNrYdL8"
+            },
+            "snippet": {
+                "publishedAt": "2026-02-26T15:00:31Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "Datos Q4 2025 State of Search Promo",
+                "description": "The latest Datos State of Search report is out. AI's share of all visits grew nearly 50% quarter over quarter, from 1.07% to 1.5%.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AlwYiNrYdL8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AlwYiNrYdL8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AlwYiNrYdL8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-02-26T15:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IazFi5f-XZn5CJdf_DL6Z3qTeWs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Bxm_8RQ8hHk"
+            },
+            "snippet": {
+                "publishedAt": "2026-02-23T15:00:17Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "5 Minute Dont Fall For AI Prompt Replacements of Real Data",
+                "description": "Everyone's been dunking on this post promising you can replace SEO tools with ChatGPT prompts and save thousands.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Bxm_8RQ8hHk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Bxm_8RQ8hHk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Bxm_8RQ8hHk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-02-23T15:00:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_bmEkCY_aVI7DPuOodwvMsQ9Hh8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SGcRcF4p7SQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-02-19T15:00:48Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "5 Min Whiteboard Overcoming the Link in Comments Problem",
+                "description": "You've probably seen posts on LinkedIn that say \"link in comments\" to avoid the algorithm penalizing external links. But here's the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SGcRcF4p7SQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SGcRcF4p7SQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SGcRcF4p7SQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-02-19T15:00:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TBaGHkeVbTsL4GCuKIHtz3bTG-s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NBY00QJkTXU"
+            },
+            "snippet": {
+                "publishedAt": "2026-02-16T15:00:44Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "Most Important AI Post of the Year",
+                "description": "Britney Muller is one of my favorite AI experts, and this is the most important AI post I've read this year. It dispels a notion too many ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NBY00QJkTXU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NBY00QJkTXU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NBY00QJkTXU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-02-16T15:00:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QK8Ozixoh71vzSmK4YxGXg5Fr3E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "J3pB0p1JXbU"
+            },
+            "snippet": {
+                "publishedAt": "2026-02-12T15:00:41Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "Customize your logo in SparkToro graphs",
+                "description": "Let's say you're an agency, consultant, or you work at a company and want to customize your SparkToro graphs for presentations.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J3pB0p1JXbU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J3pB0p1JXbU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J3pB0p1JXbU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-02-12T15:00:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "d2n5G9bjirdewBXQOhqV5sZxlyc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "c-VgQIevu0g"
+            },
+            "snippet": {
+                "publishedAt": "2026-02-09T15:01:10Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "How AI Visibility Relies on Best of Lists",
+                "description": "Great research from Glenn Allsopp and the Ahrefs team: self-promotional \"best of\" lists boost your visibility in AI tools like ChatGPT ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c-VgQIevu0g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c-VgQIevu0g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c-VgQIevu0g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-02-09T15:01:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BNVwaheciYPwuPv-4q-RprIpuJw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ii2NrBvLrkY"
+            },
+            "snippet": {
+                "publishedAt": "2026-02-05T15:00:36Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "Research your audience the right way with SparkToro",
+                "description": "You want real data about your audience: where to reach them, what to create for them, how to resonate and get amplified. Let me ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ii2NrBvLrkY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ii2NrBvLrkY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ii2NrBvLrkY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-02-05T15:00:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AMQPDXz_6ONv3L-_oo5Pr9Td2Ts",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Qho4aCoi6i8"
+            },
+            "snippet": {
+                "publishedAt": "2026-02-02T15:00:47Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "The Seven Pinball Marketing Problems",
+                "description": "I have previously talked about pinball user journeys and how customers bounce around between blog posts, ChatGPT, YouTube, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qho4aCoi6i8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qho4aCoi6i8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qho4aCoi6i8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-02-02T15:00:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ptRmPs2JWkjFcxlLZ7UQ_267YkU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WLzhfmaXxBg"
+            },
+            "snippet": {
+                "publishedAt": "2026-01-26T15:00:56Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "Good vs Bad Marketing Use Cases for LLMs",
+                "description": "In this week's SparkToro office hours, I talked about good versus bad use cases for AI in marketing. This section got a lot of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WLzhfmaXxBg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WLzhfmaXxBg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WLzhfmaXxBg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-01-26T15:00:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LRbEmHLG04OqlF6ZoS63-DAsPQg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lrdp72TOQBg"
+            },
+            "snippet": {
+                "publishedAt": "2026-01-22T15:01:22Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "Vercel vs TabletHotels and confirming your audience behaviors",
+                "description": "I was browsing Hacker News and found this great piece from Vercel about how they're adapting their SEO strategy for LLM ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lrdp72TOQBg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lrdp72TOQBg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lrdp72TOQBg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-01-22T15:01:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rdawA7d_ZkBpsY-16ycZP1c1OzM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0Q6i104D7jQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-01-19T15:00:01Z",
+                "channelId": "UCgkXUGNLcEAZKy6KpdSycVQ",
+                "title": "Use LinkedIn Audience Data Plus SparkToro",
+                "description": "Your LinkedIn company page is sitting on a goldmine of audience data. Your followers have already raised their hand to say ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0Q6i104D7jQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0Q6i104D7jQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0Q6i104D7jQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rand Fishkin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-01-19T15:00:01Z"
+            }
+        }
+    ]
+}

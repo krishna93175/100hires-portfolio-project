@@ -1,0 +1,692 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "Ej1WrIMtekjwJQtNxeDNAjpdRkQ",
+    "nextPageToken": "CBQQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+        "totalResults": 134,
+        "resultsPerPage": 20
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7fx5gjL3FyeA6wTqKRvcYY-Ccio",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qN57vJns8ls"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-27T21:15:44Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "The &quot;Fast-Forward&quot; Button for Content Optimization: Boost Content Grade",
+                "description": "Stop manually hunting for keywords. Boost Content Grade is the \"fast-forward\" button for your workflow, bridging the gap between ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qN57vJns8ls/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qN57vJns8ls/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qN57vJns8ls/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-27T21:15:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "K-jbZvLBU3Fgn7iPG3nxS7HEGXQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RMg2eTZL7Jk"
+            },
+            "snippet": {
+                "publishedAt": "2026-02-13T16:29:50Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "How To Do AEO (prompt research, query fan out, content): Live Session w/ Bernard Huang (Clearscope)",
+                "description": "Clearscope provides tested & trustworthy content on AI, Answer Engine Optimization (AEO), Generative Engine Optimization ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RMg2eTZL7Jk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RMg2eTZL7Jk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RMg2eTZL7Jk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-02-13T16:29:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IteNxq57xzzXrWaRo7JJEREmgDY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0tV2ewk-9rs"
+            },
+            "snippet": {
+                "publishedAt": "2026-01-28T18:55:11Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "How to Reverse Engineer the Prompts Your Customers Actually Use",
+                "description": "AI search doesn't rely on keywords. It responds to real customer questions with intent and context. In this video, we break down ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0tV2ewk-9rs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0tV2ewk-9rs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0tV2ewk-9rs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-01-28T18:55:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BV07UNrGg0jHB3gMlHmmuX-hc4Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "c-VtgjXWsK4"
+            },
+            "snippet": {
+                "publishedAt": "2026-01-28T16:18:46Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "The Future of Search (SEO, AI SEO, AEO, GEO) with Lily Ray, Kevin Indig, Ross Hudgens, Steve Toth",
+                "description": "Clearscope provides tested & trustworthy content on AI, Answer Engine Optimization (AEO), Generative Engine Optimization ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c-VtgjXWsK4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c-VtgjXWsK4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c-VtgjXWsK4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-01-28T16:18:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5huDdXjzLmxwkRdUgSQBaK9s9xk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zUF4GSA_XUw"
+            },
+            "snippet": {
+                "publishedAt": "2026-01-23T21:51:05Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "Why &quot;Prompt Tracking&quot; is the New Rank Tracking (And How to Start)",
+                "description": "Search visibility isn't about rankings anymore. It's about whether you show up in the answer. As customers turn to ChatGPT, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zUF4GSA_XUw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zUF4GSA_XUw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zUF4GSA_XUw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-01-23T21:51:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eJy1WFCml6ZWCt5tDVW09ezsd1U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8RVUqitFcVk"
+            },
+            "snippet": {
+                "publishedAt": "2026-01-15T18:29:02Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "Optimizing Your AEO &amp; SEO Workflows Using AI (Claude Code) With Eric Siu",
+                "description": "Clearscope provides tested & trustworthy content on AI, Answer Engine Optimization (AEO), Generative Engine Optimization ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8RVUqitFcVk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8RVUqitFcVk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8RVUqitFcVk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-01-15T18:29:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "c25tZH1Ei8ebd9vcDwuXAV5PzYw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fp8zZfSi2O8"
+            },
+            "snippet": {
+                "publishedAt": "2025-12-19T19:36:53Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "Welcome to Clearscope",
+                "description": "Search has changed, and so has how people find answers. Today, discovery happens across search engines, AI tools, and chat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fp8zZfSi2O8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fp8zZfSi2O8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fp8zZfSi2O8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-12-19T19:36:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NTvdeKVcQDtYgl0PO1HBG9Hlq4I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2Ldce9z_ZuM"
+            },
+            "snippet": {
+                "publishedAt": "2025-12-11T18:17:11Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "How Answer Engine Optimization (AEO) Works + AEO Playbook with Bernard Huang",
+                "description": "Looking for the most up-to-date playbook on winning AI visibility on Google's AI Mode, AI Overviews, Gemini and ChatGPT?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2Ldce9z_ZuM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2Ldce9z_ZuM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2Ldce9z_ZuM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-12-11T18:17:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NowhPZ7oM39pxkThXDpoGMBYtgU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aK0lwYXq-4Q"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-18T17:14:25Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "The Truth about AI Search with Gaetano (Clearscope webinar)",
+                "description": "Clearscope provides tested & trustworthy content on AI, Answer Engine Optimization (AEO), Generative Engine Optimization ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aK0lwYXq-4Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aK0lwYXq-4Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aK0lwYXq-4Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-18T17:14:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BpyO_sDSD3n6eKFhJ8GL9jUgxeI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "007hI4VSUIE"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-17T18:33:17Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "Get Started with Tracked Topics",
+                "description": "Meet Clearscope Tracked Topics \u2014 visibility reimagined for a new era of search. Go beyond keyword rankings and finally see ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/007hI4VSUIE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/007hI4VSUIE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/007hI4VSUIE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-17T18:33:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xOIz50iX5n9MPYRVx3cxxeNWy2I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DEr3FjU38cg"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-31T21:58:17Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "Get Started with Topic Explorations",
+                "description": "Meet Clearscope Topic Explorations \u2014 your new lens for understanding search. Go beyond keywords and see the full landscape ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DEr3FjU38cg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DEr3FjU38cg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DEr3FjU38cg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-31T21:58:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ro-h_wI8_bPQw_FwuQEVhHckkTI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Jm7KFJpxJq4"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-28T15:58:08Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "Get Started with Clearscope Drafts",
+                "description": "Meet Clearscope Drafts and your new AI writing assistant, Draft with AI. Go from topic to structured first draft in minutes ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Jm7KFJpxJq4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Jm7KFJpxJq4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Jm7KFJpxJq4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-28T15:58:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XTGBswBxE0FD6UXJYSnfHhfLprs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HXcEDHl4D-4"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-27T20:15:24Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "How To Win at Answer Engine Optimization (AEO) with Ethan Smith",
+                "description": "Answer Engine Optimization (AEO) is the new SEO. Search is changing fast. We've moved from ten blue links to AI-driven ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HXcEDHl4D-4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HXcEDHl4D-4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HXcEDHl4D-4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-27T20:15:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6GENkbgcZtwziDo6lAIni_KKOnA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bIaGczn_w-Y"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-01T01:14:55Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "Introducing Clearscope 2.0: The Discoverability Platform for Modern Search",
+                "description": "Search has changed. AI Overviews, chatbots, and zero-click searches have rewritten the rules. That's why we're launching ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bIaGczn_w-Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bIaGczn_w-Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bIaGczn_w-Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-01T01:14:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5lvz1Tt5e54f8zmoTkGCwv6JBc8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d6x6xH39Ruc"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-30T17:35:12Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "Introducing  Tracked Topics: Go Beyond Rankings to Topical Authority",
+                "description": "Traditional rank tracking is no longer enough. Search has changed, and AI-powered tools like ChatGPT, Gemini, and Perplexity ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d6x6xH39Ruc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d6x6xH39Ruc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d6x6xH39Ruc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-30T17:35:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9TgamxEdS7cJAqzpfZ5agwfFrYs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UFQ0lDorDAY"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-24T21:11:49Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "Introducing Topic Explorations: The Future of SEO is Topical",
+                "description": "Keyword-first SEO isn't enough anymore. Search today is multi-dimensional, and AI-driven engines reward topical authority, not ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UFQ0lDorDAY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UFQ0lDorDAY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UFQ0lDorDAY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-24T21:11:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cax6wW7qb7r5Xl0xsskMFrHEOJE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xvUjaxyin6E"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-15T17:24:45Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "Introducing Clearscope&#39;s AI-Powered Search Intent Summaries",
+                "description": "Most SEO tools stop at broad labels like \u201cinformational\u201d or \u201ctransactional.\u201d That's not enough anymore. Clearscope's new ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xvUjaxyin6E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xvUjaxyin6E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xvUjaxyin6E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-15T17:24:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gGbPY-0SWZkWIRA97pjPKmO2m5o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HKV9kVR64JE"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-02T16:52:05Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "Introducing Draft with AI: Clearscope\u2019s New AI Writing Assistant",
+                "description": "Getting started with writing is tough. Scaling that process across an entire team? Even tougher. That's why we built Draft with AI; ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HKV9kVR64JE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HKV9kVR64JE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HKV9kVR64JE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-02T16:52:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iPbxIrziQedAblutsRNximV9hSM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "niTuRqqap1E"
+            },
+            "snippet": {
+                "publishedAt": "2024-11-21T18:09:33Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "Implicit Search Intent: The Key to Success in Global Markets",
+                "description": "Understanding true search intent is crucial to successful multilingual SEO Veruska Anconitano, multilingual SEO expert and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/niTuRqqap1E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/niTuRqqap1E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/niTuRqqap1E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-11-21T18:09:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rPWcvak2lfQ7tYbQb-nGD6pGecs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "L3R6AhGQy5k"
+            },
+            "snippet": {
+                "publishedAt": "2024-11-15T14:49:25Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "What&#39;s going on in SEO with Dr. Marie Haynes, Jeannie Hill, Ryan Robinson, and Mark Williams-Cook",
+                "description": "This brilliant panel of top marketing and SEO leaders joined the Clearscope Webinar Series to talk all things SEO\u2014and what you ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L3R6AhGQy5k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L3R6AhGQy5k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L3R6AhGQy5k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-11-15T14:49:25Z"
+            }
+        }
+    ]
+}

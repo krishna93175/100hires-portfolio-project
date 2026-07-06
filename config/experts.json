@@ -18,42 +18,84 @@
       ]
     },
     "experts": [
-      {
-        "id": 1,
-        "priority": 1,
-        "name": "Ross Simmonds",
-        "company": "Foundation Marketing",
-        "role": "Founder & CEO",
-        "status": "verified",
-        "platforms": {
-          "website": "https://rosssimmonds.com",
-          "company": "https://foundationinc.co",
-          "linkedin": "https://www.linkedin.com/in/rosssimmonds",
-          "youtube": "",
-          "newsletter": "https://rosssimmonds.com"
-        },
-        "primary_focus": [
-          "AI-powered Content Marketing",
-          "Content Distribution",
-          "SEO",
-          "B2B Marketing",
-          "Content Repurposing"
-        ],
-        "content_sources": {
-          "website": true,
-          "blog": true,
-          "linkedin": true,
-          "youtube": true,
-          "newsletter": true,
-          "podcast": true
-        },
-        "api_collection": {
-          "youtube": "pending",
-          "linkedin": "manual",
-          "website": "manual",
-          "newsletter": "manual"
-        },
-        "notes": "Founder of Foundation Marketing and Distribution.ai. Strong emphasis on 'Create Once, Distribute Forever', AI-assisted content workflows, Reddit, YouTube, and B2B content distribution."
-      }
-    ]
+  {
+    "id": 1,
+    "priority": 1,
+    "name": "Ross Simmonds",
+    "company": "Foundation Marketing",
+    "role": "Founder & CEO",
+    "status": "verified"
+  },
+  {
+    "id": 2,
+    "priority": 2,
+    "name": "Rand Fishkin",
+    "company": "SparkToro",
+    "role": "Co-Founder",
+    "status": "verified"
+  },
+  {
+    "id": 3,
+    "priority": 3,
+    "name": "Bernard Huang",
+    "company": "Clearscope",
+    "role": "Co-Founder",
+    "status": "verified"
+  },
+  {
+    "id": 4,
+    "priority": 4,
+    "name": "Nathan Gotch",
+    "company": "Gotch SEO",
+    "role": "Founder",
+    "status": "verified"
+  },
+  {
+    "id": 5,
+    "priority": 5,
+    "name": "Matt Diggity",
+    "company": "Diggity Marketing",
+    "role": "Founder",
+    "status": "verified"
+  },
+  {
+    "id": 6,
+    "priority": 6,
+    "name": "Lily Ray",
+    "company": "Amsive",
+    "role": "SEO Director",
+    "status": "verified"
+  },
+  {
+    "id": 7,
+    "priority": 7,
+    "name": "Aleyda Solis",
+    "company": "Orainti",
+    "role": "Founder",
+    "status": "verified"
+  },
+  {
+    "id": 8,
+    "priority": 8,
+    "name": "Wil Reynolds",
+    "company": "Seer Interactive",
+    "role": "Founder",
+    "status": "verified"
+  },
+  {
+    "id": 9,
+    "priority": 9,
+    "name": "Marie Haynes",
+    "company": "Marie Haynes Consulting",
+    "role": "Founder",
+    "status": "verified"
+  },
+  {
+    "id": 10,
+    "priority": 10,
+    "name": "Julian Goldie",
+    "company": "Goldie Agency",
+    "role": "Founder",
+    "status": "verified"
   }
+}

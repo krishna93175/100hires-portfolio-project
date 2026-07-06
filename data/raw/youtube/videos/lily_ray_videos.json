@@ -1,0 +1,692 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "pzO8TY3UgMbHOnTqC2QuZnUF-uQ",
+    "nextPageToken": "CBQQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+        "totalResults": 32,
+        "resultsPerPage": 20
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Yz9FYIQOGgGv84ZWc8qAQoG4eO4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2nJkT8zOzcM"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-10T22:10:00Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "GEO, AEO, LLMO: Separating Fact from Fiction &amp; How to Win in AI Search - Lily Ray at MozCon 2025",
+                "description": "This is the virtual version of my MozCon NYC 2025 presentation. This presentation discusses the evolving landscape of SEO and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2nJkT8zOzcM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2nJkT8zOzcM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2nJkT8zOzcM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-10T22:10:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BZoo60BqFzqUS5N9uzENS8OGb7c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "F4YrcVkcvuk"
+            },
+            "snippet": {
+                "publishedAt": "2024-04-06T19:23:24Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "Has Google&#39;s search quality been declining in recent years?",
+                "description": "Learn about how some hit pieces against Google and the quality of its results led to some of the major algorithm updates the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F4YrcVkcvuk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F4YrcVkcvuk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F4YrcVkcvuk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-04-06T19:23:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7IGUE5fCt_u7WMsiNUyo3q5uDBk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gyWQeIGzc3k"
+            },
+            "snippet": {
+                "publishedAt": "2024-04-06T18:27:27Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "The Cycles of Google&#39;s Algorithm Updates: Thoughts on the March Core Update &amp; Helpful Content Update",
+                "description": "Learn about the history and context surrounding Google's Helpful Content update, which has wreaked havoc for many publisher ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gyWQeIGzc3k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gyWQeIGzc3k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gyWQeIGzc3k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-04-06T18:27:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tKX3WUnBf0PCDIRO5U7qFrGZlgM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-ewdcdsJ2k4"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-14T19:52:05Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "The Helpful Content Update - Reflecting on What Happened",
+                "description": "The September 2023 Helpful Content Update caused thousands of websites to lose organic (SEO) traffic from Google in the span ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-ewdcdsJ2k4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-ewdcdsJ2k4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-ewdcdsJ2k4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-14T19:52:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tUow846-fRmo1jpu0HYEM83HCNY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HScvmekUAB4"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-08T20:47:39Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "March 2024 Core Update &amp; Spam Updates with Lily Ray",
+                "description": "Learn all about the new March 2023 Google Core Update and Spam Updates, including manual actions that Google is actively ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HScvmekUAB4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HScvmekUAB4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HScvmekUAB4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-08T20:47:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4CaMhGiLx2woCBqJ_lWrzI9-xSg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pRXgILIZLyg"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-08T20:29:53Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "Building trust after receiving a Google manual action",
+                "description": "Learn why it's harder to get back in Google's good graces after being hit with a manual action (AKA penalty).",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pRXgILIZLyg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pRXgILIZLyg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pRXgILIZLyg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-08T20:29:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mZURQGmGtGFozoHHhQVo3CPYyCU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2Bx-LPjN5Ns"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-08T20:28:18Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "Why being risk-averse is important for avoiding Google algorithm updates and penalties",
+                "description": "Learn why I care about protecting websites from Google updates in order to maintain longterm #SEO success.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2Bx-LPjN5Ns/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2Bx-LPjN5Ns/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2Bx-LPjN5Ns/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-08T20:28:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "X-ZYDQAd6BirH02BaWsvTuEWHEY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Uu2gGOzTsmw"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-08T20:24:10Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "Google is Cracking Down on Low-Quality AI Content",
+                "description": "Learn how Google might be identifying and devaluing low-quality AI-generated content in its new March spam update.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Uu2gGOzTsmw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Uu2gGOzTsmw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Uu2gGOzTsmw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-08T20:24:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aqfer84aUINqMJhGP3QsLdzoM0A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JJEVHYmFvWc"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-08T20:21:45Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "Site Reputation Abuse - AKA Parasite SEO: Google Will Be Cracking Down",
+                "description": "Learn about the latest Google spam update related to site reputation abuse and its impact on websites with third-party content.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JJEVHYmFvWc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JJEVHYmFvWc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JJEVHYmFvWc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-08T20:21:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WP3mqCZFhI9TwsVvu4teM3mV6lI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zOO4P9jy-FU"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-08T20:19:20Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "How to Analyze the Impact of Google Core Updates on Your Website",
+                "description": "When Google core updates roll out, learn how to identify early signs of traffic changes and anomalies, and gain insights on when ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zOO4P9jy-FU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zOO4P9jy-FU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zOO4P9jy-FU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-08T20:19:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Gmiz5_EyNZAdBobInim24IIUHhg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6pYleA6hEiU"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-28T19:49:28Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "What&#39;s up with all these spammy results on Google in 2024?",
+                "description": "Google search has been inundated with all types of spam - including AI-generated spam - in the last few months. Learn about the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6pYleA6hEiU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6pYleA6hEiU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6pYleA6hEiU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-28T19:49:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4d4LqRZotGDdY8W9ROAIN4LVsBA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YTa_2tcNOQM"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-28T19:41:12Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "Legitimate businesses losing traffic to spammers in Google Discover",
+                "description": "Discover one reason why legitimate businesses are experiencing a significant drop in traffic on Google Discover while spammers ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YTa_2tcNOQM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YTa_2tcNOQM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YTa_2tcNOQM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-28T19:41:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iLLqGoGCmewLNtJ_jO2MVZnrVFU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lTIYVkXDooU"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-28T19:40:01Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "Google&#39;s new ranking systems are focused on first-hand experience",
+                "description": "Discover the latest updates to Google's ranking systems that prioritize firsthand experience and combat spam. #SEO #google.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lTIYVkXDooU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lTIYVkXDooU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lTIYVkXDooU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-28T19:40:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BmlCuIW4j9nZcU39u6U3G0JVh-8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "L_JqNLn_58I"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-28T19:38:30Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "Spammers exploiting Reddit for SEO gain",
+                "description": "Even though Reddit has generally been recognized for its moderation of promotional or low-quality content, spammers have still ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L_JqNLn_58I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L_JqNLn_58I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L_JqNLn_58I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-28T19:38:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RqlF8aH7YI13fCKEznVd4FU1Chk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GIJYfxgjB6M"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-28T19:36:53Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "Why are UGC (user-generated content) sites surging on Google?",
+                "description": "Learn about the extraordinary growth of websites like Reddit, Quora, and LinkedIn in terms of SEO visibility and rankings.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GIJYfxgjB6M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GIJYfxgjB6M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GIJYfxgjB6M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-28T19:36:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_B81U4DZ4QU9WNrBeYJVEnNyg2U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QP61R-koPUQ"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-28T19:36:34Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "Google Discussions &amp; Forums: Learning About this New SERP Feature",
+                "description": "Discover how Google's Discussions and Forums feature highlights real conversations from real users in order to provide an ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QP61R-koPUQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QP61R-koPUQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QP61R-koPUQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-28T19:36:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EQzRULtoOmeLKK9YzUrdEqDCBlM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KsXI4Fa6kYI"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-28T19:35:49Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "Outcomes of Google&#39;s Hidden Gems Update",
+                "description": "Discover how Google's new ranking system is rewarding \"hidden gems\" in search results and how it has impacted sites like ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KsXI4Fa6kYI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KsXI4Fa6kYI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KsXI4Fa6kYI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-28T19:35:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TsjXYZpPWBnKkB0ANBPLfgeRgGQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mnI8FJcfcRg"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-28T19:31:14Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "How Google&#39;s Discussions and Forums Impact SEO in 2024",
+                "description": "Discover Google's latest feature, Discussions and Forums, and how it affects search engine rankings and user experience.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mnI8FJcfcRg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mnI8FJcfcRg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mnI8FJcfcRg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-28T19:31:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4N955SeINyas5JUno5gaRcN2umY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zaFz7nKaIVw"
+            },
+            "snippet": {
+                "publishedAt": "2023-12-01T23:04:07Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "What&#39;s Up With Google Discover &amp; Publisher Websites?",
+                "description": "I recently published an article about the fact that hundreds of publishers around the world have seen their Google Discover traffic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zaFz7nKaIVw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zaFz7nKaIVw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zaFz7nKaIVw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-12-01T23:04:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RVziYYr_BwWm5EdGR2SDVGK-NQY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KFY-84CqejA"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-21T21:11:56Z",
+                "channelId": "UCjKPDVkFchRoWNENtaG-n-g",
+                "title": "5 Ways SEO is Moving Toward Influencer Marketing",
+                "description": "I believe that the future of SEO will be highly tied in with influencer marketing. Hear me out: More and more SERP features are ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KFY-84CqejA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KFY-84CqejA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KFY-84CqejA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Ray",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-21T21:11:56Z"
+            }
+        }
+    ]
+}

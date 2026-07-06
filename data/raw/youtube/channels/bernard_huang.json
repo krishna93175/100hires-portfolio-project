@@ -1,0 +1,40 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "afGaGHxUEMmCZPomoYumwN7qm2Q",
+    "nextPageToken": "CAEQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+        "totalResults": 8,
+        "resultsPerPage": 1
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aO0l41e_hCAXVokeJPJYXdG7GLE",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-03T18:46:07Z",
+                "channelId": "UCi24ZhSPbVbZrXMar_HS1eA",
+                "title": "Clearscope",
+                "description": "Clearscope provides tested + trustworthy AI, AEO/GEO, and SEO education from the industry's leading experts so you can make ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_l30B1ewVQ_j8zqHnryYoPynPZVhs7X4tmD7jjvu6Rk3Aw=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_l30B1ewVQ_j8zqHnryYoPynPZVhs7X4tmD7jjvu6Rk3Aw=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_l30B1ewVQ_j8zqHnryYoPynPZVhs7X4tmD7jjvu6Rk3Aw=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Clearscope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-07-03T18:46:07Z"
+            }
+        }
+    ]
+}

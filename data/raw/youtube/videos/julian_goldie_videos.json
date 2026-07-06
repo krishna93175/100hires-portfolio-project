@@ -1,0 +1,692 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "SYzvuztOUxXl_g9DNXWMyP_KAdA",
+    "nextPageToken": "CBQQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+        "totalResults": 97,
+        "resultsPerPage": 20
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Lc-fy8KKFTDvMVW-p6FJOFk5aAo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "N8OYc3fg84U"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T15:11:35Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Qwythos 9B: The Free Local AI That Builds Apps!",
+                "description": "Imagine running a Claude-style reasoning engine right on your own machine without any cloud costs or privacy concerns.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N8OYc3fg84U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N8OYc3fg84U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N8OYc3fg84U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T15:11:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1hwyamSY_-GBtde4WBUs0j5Qh3g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1MSz-ra_uBQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T14:55:39Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Beat Gated AI Models with &#39;Mixture of Agents&#39; \ud83e\udd16",
+                "description": "While frontier models like GPT 5.6 and Claude Mythos remain gated, a powerful alternative emerges. By leveraging a Mixture of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1MSz-ra_uBQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1MSz-ra_uBQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1MSz-ra_uBQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T14:55:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_RgUP2PUL5zUvyLGb-4O9vJc3js",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JTR-JRVGzFs"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T14:24:37Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Why single AI models are officially obsolete. \ud83e\udd16",
+                "description": "Stop waiting for the next big frontier model to save you. Real dominance in AI performance doesn't come from betting on one ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JTR-JRVGzFs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JTR-JRVGzFs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JTR-JRVGzFs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T14:24:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TfIXf2iYHPoJfcxIIOQb2NoslhI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kXAHWg37lYI"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T13:35:56Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Laguna XS 2.1: Run Coding Agents for Free! \ud83d\ude80",
+                "description": "Julian explores the newly released Laguna XS 2.1, a powerful local agentic coding model from Poolside. This lightweight model ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kXAHWg37lYI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kXAHWg37lYI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kXAHWg37lYI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T13:35:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tucLOBc_WncIIvy67BlEbllPahQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nL0MY7Iud7o"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T12:44:43Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Get indexed in under 24 hours with this AI trick. \ud83d\ude80",
+                "description": "Achieving rapid search engine indexing for AI-generated content is now a streamlined reality. By leveraging Hermes Oracle, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nL0MY7Iud7o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nL0MY7Iud7o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nL0MY7Iud7o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T12:44:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "k36-ZAgI_EaVVvIIhZYsyhDq0h8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Uz2Wnl9FZNk"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T12:22:47Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Can AI really build a video game? \ud83e\udd2f",
+                "description": "Agent OS is pushing boundaries beyond business automation. By teaching AI agents video game development skills, entire ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Uz2Wnl9FZNk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Uz2Wnl9FZNk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Uz2Wnl9FZNk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T12:22:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Sf2jibrL2Wi0oofQtgUjEhakiIk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IT_Gu3b9PG0"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T11:33:54Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Stop wasting time! Build your own AI productivity tool with Fable 5. \ud83e\udd16\ud83d\ude80",
+                "description": "Discover a powerful workflow for automating tedious tasks using the Fable 5 AI coding model. By performing a simple time audit to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IT_Gu3b9PG0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IT_Gu3b9PG0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IT_Gu3b9PG0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T11:33:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Sj_dcABm3H3x2MJmEcNPUcrArag",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qxA6ukx6mew"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T11:02:48Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Make pro movies from one sentence with Open Montage! \ud83c\udfac",
+                "description": "Open Montage is shattering the barriers of independent filmmaking by acting as the world's first open-source agentic video ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qxA6ukx6mew/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qxA6ukx6mew/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qxA6ukx6mew/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T11:02:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "72SMwivlr9mXeX_ZUtPEtAN6Hgg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5wv0ViSOB6Y"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T10:33:54Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Rank #1 Fast with this AI SEO Strategy! \ud83d\ude80",
+                "description": "Julian shares a powerful system to dominate search rankings for new websites. By leveraging trending topics and pairing them ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5wv0ViSOB6Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5wv0ViSOB6Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5wv0ViSOB6Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T10:33:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0lsLVGYy8RfzUzJeGxPzdIOCRvA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Sn6vTa6_fkQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T09:43:43Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Netlify for SEO: The ultimate automation shortcut \ud83d\ude80",
+                "description": "Managing complex websites is often a massive time sink. This approach prioritizes Netlify for hosting AI-generated sites due to its ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Sn6vTa6_fkQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Sn6vTa6_fkQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Sn6vTa6_fkQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T09:43:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "s6A53HBh4fBgC30t6c6VcXKTzSE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cT0LrbY3DW8"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T09:14:37Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Is GPT-5.6 Being Government-Gated? \ud83d\uded1",
+                "description": "Reports suggest the US government might restrict the rollout of powerful new models like GPT-5.6, mandating a vetting process ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cT0LrbY3DW8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cT0LrbY3DW8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cT0LrbY3DW8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T09:14:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tpxaNlGX4z0BiRzNtZOwYQ5-0Sk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "da_AA5n33Ss"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T08:49:45Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Ditch the 14 tabs: Build your own AI Agent OS! \ud83e\udd16",
+                "description": "Stop jumping between browser tabs to manage your AI workflow. This system consolidates every model you use\u2014from Claude to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/da_AA5n33Ss/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/da_AA5n33Ss/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/da_AA5n33Ss/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T08:49:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WrWiOm8yzmX_pq6-ky0QQJ_RSOk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yIHMH0Ahp4Q"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T07:54:44Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Why your AI model choice doesn&#39;t matter (with Agent OS)",
+                "description": "Stop obsessing over the latest model releases. Building a robust, flexible system is far more critical than having access to the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yIHMH0Ahp4Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yIHMH0Ahp4Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yIHMH0Ahp4Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T07:54:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "87nQ2j2dm_Esrd8MamulyoVkmbU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AvCeWe9t9dk"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T07:33:41Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Boost Your AI Workflow: 5 Hermes Agent OS Setup Tips",
+                "description": "Unlock the full potential of your AI setup with these five configurations for Hermes Agent OS. By integrating tools like the Hermes ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AvCeWe9t9dk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AvCeWe9t9dk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AvCeWe9t9dk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T07:33:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "E-gxUh4cXjZYRvOVHBU3OhyfHrQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yPcLyuknVTs"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T07:30:44Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Create Your Own SEO Second Brain with Claude &amp; Hermes Agent",
+                "description": "Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about Free SEO Strategy Session ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yPcLyuknVTs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yPcLyuknVTs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yPcLyuknVTs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T07:30:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "68_De__geCEGeiIFycx3gJOM5IA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5qJqMRRqwog"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T07:14:53Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "How to scale SEO to 278+ daily clicks with AI automation.",
+                "description": "Discover the blueprint for building fully automated websites that thrive in search rankings. By leveraging specialized agents that ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5qJqMRRqwog/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5qJqMRRqwog/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5qJqMRRqwog/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T07:14:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ApBG_gSJODFbVjTMJgwLuk--oLs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Qb1WDGQXgHc"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T07:00:50Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Run a Claude-style AI model 100% locally on your laptop for free! \ud83e\udd16",
+                "description": "Discover Qwifos 9B, a powerful creative reasoning model that operates entirely on your local machine. By leveraging the Ollama ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qb1WDGQXgHc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qb1WDGQXgHc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qb1WDGQXgHc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T07:00:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OEpZZSWLmPiszhTfv7IoHVSrUSs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PbdfIHpw62U"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T06:23:44Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Laguna XS 2.1 vs The Competition: Coding Apps Locally \ud83d\udcbb",
+                "description": "The latest release from Poolside, Laguna XS 2.1, is making waves in the world of local agentic coding. With a 256k context ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PbdfIHpw62U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PbdfIHpw62U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PbdfIHpw62U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T06:23:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PDsQJvx6tYMA_MtYrnQ15EowxTw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YUcO8OazIxc"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T06:03:36Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Stop wasting money on AI tokens! \ud83d\udcb8",
+                "description": "Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about Free SEO Strategy Session ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YUcO8OazIxc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YUcO8OazIxc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YUcO8OazIxc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T06:03:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aAr7wjyrXWef6qXh4-qU2mfOgeQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VPMtWq8LpPQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-06T05:51:48Z",
+                "channelId": "UCc-FovAyBAQDw2Y7PQ_v0Zw",
+                "title": "Rank #1 Fast: The Trending AI SEO Trick \ud83d\ude80",
+                "description": "Julian reveals a powerful system for skyrocketing website traffic by targeting trending keywords with low competition.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VPMtWq8LpPQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VPMtWq8LpPQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VPMtWq8LpPQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Julian Goldie Agency",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-06T05:51:48Z"
+            }
+        }
+    ]
+}

@@ -5,7 +5,6 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
-# Load API Key
 load_dotenv()
 
 API_KEY = os.getenv("YOUTUBE_API_KEY")
@@ -13,45 +12,54 @@ API_KEY = os.getenv("YOUTUBE_API_KEY")
 if not API_KEY:
     raise ValueError("YOUTUBE_API_KEY not found.")
 
-# Read channel information
-channel_file = Path("data/raw/youtube/ross_simmonds.json")
+channels_dir = Path("data/raw/youtube/channels")
+videos_dir = Path("data/raw/youtube/videos")
 
-with open(channel_file, "r", encoding="utf-8") as f:
-    channel_data = json.load(f)
+videos_dir.mkdir(parents=True, exist_ok=True)
 
-channel_id = channel_data["items"][0]["id"]["channelId"]
+channel_files = list(channels_dir.glob("*.json"))
 
-print(f"Channel ID: {channel_id}")
+print(f"Found {len(channel_files)} channel file(s).\n")
 
-# Search latest videos
-url = "https://www.googleapis.com/youtube/v3/search"
+for channel_file in channel_files:
 
-params = {
-    "part": "snippet",
-    "channelId": channel_id,
-    "order": "date",
-    "type": "video",
-    "maxResults": 20,
-    "key": API_KEY
-}
+    print(f"Processing {channel_file.name}")
 
-response = requests.get(url, params=params)
+    with open(channel_file, "r", encoding="utf-8") as f:
+        channel_data = json.load(f)
 
-print("Status Code:", response.status_code)
+    if not channel_data.get("items"):
+        print("No channel found.\n")
+        continue
 
-if response.status_code != 200:
-    print(response.text)
-    exit()
+    channel_id = channel_data["items"][0]["id"]["channelId"]
 
-video_data = response.json()
+    url = "https://www.googleapis.com/youtube/v3/search"
 
-# Create output folder
-output_folder = Path("data/raw/youtube/videos")
-output_folder.mkdir(parents=True, exist_ok=True)
+    params = {
+        "part": "snippet",
+        "channelId": channel_id,
+        "order": "date",
+        "type": "video",
+        "maxResults": 20,
+        "key": API_KEY
+    }
 
-output_file = output_folder / "ross_simmonds_videos.json"
+    response = requests.get(url, params=params)
 
-with open(output_file, "w", encoding="utf-8") as f:
-    json.dump(video_data, f, indent=4)
+    print("Status:", response.status_code)
 
-print(f"Saved to {output_file}")
+    if response.status_code != 200:
+        print(response.text)
+        continue
+
+    video_data = response.json()
+
+    output_name = channel_file.stem + "_videos.json"
+
+    with open(videos_dir / output_name, "w", encoding="utf-8") as outfile:
+        json.dump(video_data, outfile, indent=4)
+
+    print(f"Saved {output_name}\n")
+
+print("Finished.")

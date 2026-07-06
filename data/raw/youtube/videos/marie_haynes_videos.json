@@ -1,0 +1,692 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "MrGYcBLqHhEecFTx9kWix0okRto",
+    "nextPageToken": "CBQQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+        "totalResults": 95,
+        "resultsPerPage": 20
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mxENIvVz98PBVCoVJ8c0JBtw4Do",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DnoRps0KDt0"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-17T13:30:29Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "Will we sell our knowledge for agents via OKF? #agents #okf #google",
+                "description": "I am so excited about OKF - Google's new proposed standard for the Open Knowledge Format.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DnoRps0KDt0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DnoRps0KDt0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DnoRps0KDt0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-17T13:30:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WPYXYi3VtLp3p9j7XnJ39kUshVA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "13JApYZafCw"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-11T14:27:55Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "How to build an agentic command center with Claude Cowork - with Laura Tobin",
+                "description": "You can build an AI dashboard so easily - even if you don't know how to code! In this episode, Laura Tobin from the Search Bar ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/13JApYZafCw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/13JApYZafCw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/13JApYZafCw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-11T14:27:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VaF4GMmZLgTFmadhjpAAkpDU4AE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hNcltpAFlbQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-03T17:24:46Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "Big News! AI Overview &amp; AI Mode stats in Google Search Console!",
+                "description": "Google has just released a major update to Search Console, providing website owners with dedicated performance reports for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hNcltpAFlbQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hNcltpAFlbQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hNcltpAFlbQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-03T17:24:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jg3n3km1WMv9YAaMq3bSpO5wKzc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Sg0MEg5wWVE"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-27T14:31:52Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "TurboQuant - how it works and implications for Search (NotebookLM Video)",
+                "description": "I gave Google's announcement on TurboQuant ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Sg0MEg5wWVE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Sg0MEg5wWVE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Sg0MEg5wWVE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-27T14:31:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Wh-IqwBHGzqNuHKpfeCONqATjUM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "K9_pRyT2z4w"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-18T13:30:21Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "Is WebMCP the new SEO? #WebMCP #AIAgents #SEO",
+                "description": "We aren't talking enough about WebMCP. Marie Haynes breaks down why the future of the internet isn't you searching Google for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K9_pRyT2z4w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K9_pRyT2z4w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K9_pRyT2z4w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-18T13:30:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BuaMoBql-DggKHe8kOqMbyWnoRs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "obc1M4qhQdc"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-16T15:25:08Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "Google&#39;s biggest threat is not OpenAI.  #UCP #GoogleSearch #EcommerceSEO",
+                "description": "Who is Google's true biggest competitor? It isn't OpenAI. Tom Capper and Marie Haynes discuss the Universal Commerce ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/obc1M4qhQdc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/obc1M4qhQdc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/obc1M4qhQdc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-16T15:25:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9D98zrz2NEC-vdS838skyGt7-8U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Kb92iptzvxo"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-06T18:00:22Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "The future of SEO and Agentic AI",
+                "description": "The future of search isn't search; it's agents. Dr. Marie Haynes tackles the biggest shift facing the web: agentic AI. This episode ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kb92iptzvxo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kb92iptzvxo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kb92iptzvxo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-06T18:00:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0-V2c5i8J4far06_x7IVefTaTwI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_n1JNWnlOk0"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-07T20:41:30Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "The new Gemini Computer Use model can click &quot;I&#39;m not a robot&quot; and complete a Captcha",
+                "description": "I tested out the new model on my site. Wow. Check out how at 00:25 the model clicks \"I'm not a robot\" and successfully completes ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_n1JNWnlOk0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_n1JNWnlOk0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_n1JNWnlOk0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-07T20:41:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PYQPy_pmwN8WLoprzfBPoYojmvU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QDDa0veGnMI"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-08T17:32:19Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "AI Mode to be the default? This week&#39;s AI News You Can Use - NotebookLM recap",
+                "description": "Here's the full newsletter: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QDDa0veGnMI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QDDa0veGnMI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QDDa0veGnMI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-08T17:32:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "h--7EJZz4XKm5iq7ys1DuaeyGiQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dSmcJuPFiWM"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-25T18:10:55Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "Gemini will now read your Google Docs aloud for you.",
+                "description": "Very cool!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dSmcJuPFiWM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dSmcJuPFiWM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dSmcJuPFiWM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-25T18:10:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PqPXsJsqOQZlhHS1vOC0yA2CFfw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "abUhTSt_q-4"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-10T17:21:20Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "How will Google monetize AI mode?",
+                "description": "What do you think? Will Google shift to earning more from subscriptions than ads? Stay ahead of the curve in understanding AI ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/abUhTSt_q-4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/abUhTSt_q-4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/abUhTSt_q-4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-10T17:21:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0Yh_xIPZyERzFwv6kn4FSJAIG1Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TTsG-TkRhaA"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-09T16:46:22Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "Sergey Brin answers, &quot;What does the web look like in 10 years?&quot;",
+                "description": "For more on AI as it changes our world, get my free AI News You Can Use newsletter: https://mariehaynes.com/newsletter I shot ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TTsG-TkRhaA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TTsG-TkRhaA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TTsG-TkRhaA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-09T16:46:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YL_XUTUFSEdAVV4zYW7af3UWYjM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cj-WHveUcvw"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-06T17:35:46Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "Gemini 2.5 plotting the history and future of technology\ud83d\ude80",
+                "description": "Hey Gemini 2.5 Pro Preview 05-06. Write me some code that gives a graphical depiction of how technology has advanced over ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cj-WHveUcvw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cj-WHveUcvw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cj-WHveUcvw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-06T17:35:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ysgeeS4SutJxoEmxarns6nnHFCo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ctYlWgYAjAI"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-25T18:13:37Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "Demis Hassabis: Agents will cause big disruption to the web.\ud83e\udd16",
+                "description": "AI News You Can Use: https://mariehaynes.com/newsletter Original video source: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ctYlWgYAjAI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ctYlWgYAjAI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ctYlWgYAjAI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-25T18:13:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FLdApYo3x7xZG9bH2oZ39Ub8cdw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "x5liCLQBY9U"
+            },
+            "snippet": {
+                "publishedAt": "2025-02-26T20:33:44Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "Is Grok 3 a threat to Google? + LIVE AI Deep Research Demos!",
+                "description": "Is Grok 3 a serious threat to Google? In this LIVE episode of AI News You Can Use Dr. Marie Haynes demonstrates Grok 3 as well ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x5liCLQBY9U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x5liCLQBY9U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x5liCLQBY9U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-02-26T20:33:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Dw5FYpe4JjD19pSo_akp-7wgLvo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "phOsdOVoH34"
+            },
+            "snippet": {
+                "publishedAt": "2025-02-20T15:36:48Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "Elon Musk says training data will come from X, Teslas and Optimus Robots",
+                "description": "Grok 3 was released this week, with X announcing they have a cluster of 200000 AI GPUs. That is a massive amount of compute.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/phOsdOVoH34/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/phOsdOVoH34/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/phOsdOVoH34/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-02-20T15:36:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LxTNAG_oAV-sIpPvJdfAcndWyw8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iW1k8yQ264o"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-13T18:30:57Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "Gemini 2.0 - a new era! O1, Google&#39;s quantum computing breakthrough, Sora &amp; more (AUDIO ONLY)",
+                "description": "Buckle up for a thrilling dive into the future of AI! This episode of Search News You Can Use uncovers the mind-blowing ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iW1k8yQ264o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iW1k8yQ264o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iW1k8yQ264o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-13T18:30:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dO3_MV3gk03pcvCZHbABjC4VrAg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "r0F1IJvbE38"
+            },
+            "snippet": {
+                "publishedAt": "2024-09-18T18:10:12Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "Understanding Gemini&#39;s Vector Space: How AI Learns (And can we influence it?)",
+                "description": "Here's a conversation I had with Gemini about how its vector space works and how it adjusts as it learns. It may be possible for us ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r0F1IJvbE38/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r0F1IJvbE38/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r0F1IJvbE38/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-09-18T18:10:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YervacF2GP1oAAYMGN-dssJbB7s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZesNLJFD9_Y"
+            },
+            "snippet": {
+                "publishedAt": "2024-06-25T12:33:29Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "What is Navboost? How understanding this system can help us learn how to rank on Google Search.",
+                "description": "Navboost is a system we learned about in the DOJ vs Google trial. Did you know that Google stores every query that you search, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZesNLJFD9_Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZesNLJFD9_Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZesNLJFD9_Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-06-25T12:33:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jiZavFDQJJ9WvDNeeH7muRk_r_o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "X0SxltoY5G0"
+            },
+            "snippet": {
+                "publishedAt": "2024-05-10T17:48:43Z",
+                "channelId": "UC5JCNbPrfBAhnVG1Cfx25qA",
+                "title": "Looks like ChatGPT is ready to be a search engine.",
+                "description": "On Monday OpenAI is expected to announce a competitor to search. I thought I'd test out how ChatGPT Plus (GPT-4) was doing ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X0SxltoY5G0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X0SxltoY5G0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X0SxltoY5G0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marie Haynes ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-05-10T17:48:43Z"
+            }
+        }
+    ]
+}

@@ -5,49 +5,59 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
-# Load environment variables
 load_dotenv()
 
 API_KEY = os.getenv("YOUTUBE_API_KEY")
 
 if not API_KEY:
-    raise ValueError("YOUTUBE_API_KEY not found in .env")
+    raise ValueError("YOUTUBE_API_KEY not found.")
 
-# Load experts
-with open("config/experts.json", "r", encoding="utf-8") as f:
-    config = json.load(f)
+experts = [
+    ("Ross Simmonds", "Foundation Marketing"),
+    ("Rand Fishkin", "SparkToro"),
+    ("Bernard Huang", "Clearscope"),
+    ("Nathan Gotch", "Gotch SEO"),
+    ("Matt Diggity", "Diggity Marketing"),
+    ("Lily Ray", "Amsive"),
+    ("Aleyda Solis", "Orainti"),
+    ("Wil Reynolds", "Seer Interactive"),
+    ("Marie Haynes", "Marie Haynes Consulting"),
+    ("Julian Goldie", "Goldie Agency")
+]
 
-# Output folder
-output_dir = Path("data/raw/youtube")
+output_dir = Path("data/raw/youtube/channels")
 output_dir.mkdir(parents=True, exist_ok=True)
 
-for expert in config["experts"]:
+for name, company in experts:
 
-    query = f"{expert['name']} {expert['company']}"
+    query = f"{name} {company}"
 
     print(f"\nSearching: {query}")
 
-    url = "https://www.googleapis.com/youtube/v3/search"
-
-    params = {
-        "part": "snippet",
-        "q": query,
-        "type": "channel",
-        "maxResults": 1,
-        "key": API_KEY
-    }
-
-    response = requests.get(url, params=params)
+    response = requests.get(
+        "https://www.googleapis.com/youtube/v3/search",
+        params={
+            "part": "snippet",
+            "q": query,
+            "type": "channel",
+            "maxResults": 1,
+            "key": API_KEY
+        }
+    )
 
     print("Status Code:", response.status_code)
 
+    if response.status_code != 200:
+        print(response.text)
+        continue
+
     data = response.json()
 
-    filename = expert["name"].lower().replace(" ", "_") + ".json"
+    filename = name.lower().replace(" ", "_") + ".json"
 
-    with open(output_dir / filename, "w", encoding="utf-8") as outfile:
-        json.dump(data, outfile, indent=4)
+    with open(output_dir / filename, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4)
 
     print("Saved:", filename)
 
-print("\nDone.")
+print("\nFinished.")

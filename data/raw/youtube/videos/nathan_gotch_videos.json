@@ -1,0 +1,692 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "P820i3yy5tzlP6IvXHSHNlmQMn4",
+    "nextPageToken": "CBQQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+        "totalResults": 337,
+        "resultsPerPage": 20
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "L2OKsN4B_Z7z9sRHkhtDQYc0uKw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qzMAGdzra88"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-01T14:21:23Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "How to rank everywhere with SEO content",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qzMAGdzra88/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qzMAGdzra88/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qzMAGdzra88/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-01T14:21:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "El3b_dCSMIUjJitt2_bHIBZLtI0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kMsVDnFphRA"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T13:12:16Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "Important Change to SEO (New Google Algorithm Update)",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kMsVDnFphRA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kMsVDnFphRA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kMsVDnFphRA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T13:12:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aMackbMZZlnDF6cCzQCJdIoXkpg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6o0mabKRmIo"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-23T13:42:17Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "Ecommerce SEO Strategy (What Actually Works in 2026)",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6o0mabKRmIo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6o0mabKRmIo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6o0mabKRmIo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-23T13:42:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RCi0lUmCAyau9T3g6-Yr6NOT4g4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-Buvu-F0_ts"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-17T18:40:48Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "Is SEO finally dead? New 2026 study",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-Buvu-F0_ts/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-Buvu-F0_ts/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-Buvu-F0_ts/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-17T18:40:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hNu2mujG5vrVgct2FFJ5PpxneZE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tqRa9AlsM6w"
+            },
+            "snippet": {
+                "publishedAt": "2026-05-11T10:32:30Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "I Built an SEO-Friendly Website for Google &amp; ChatGPT in Less Than 10 Minutes",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tqRa9AlsM6w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tqRa9AlsM6w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tqRa9AlsM6w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-05-11T10:32:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YZ2bE1j8lu82WUVXo6CIobfAc_I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hdYfSEC0n7g"
+            },
+            "snippet": {
+                "publishedAt": "2026-05-05T14:23:09Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "AEO vs SEO: The ONE Big Difference",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hdYfSEC0n7g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hdYfSEC0n7g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hdYfSEC0n7g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-05-05T14:23:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3Y8PIlHcacDzDKzmJEt6uqb28QM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cmCafFbC1A4"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-23T11:03:00Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "Want Better AI SEO Results? Do This Every Day",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cmCafFbC1A4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cmCafFbC1A4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cmCafFbC1A4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-23T11:03:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sakJUu-DziCjMcOtrvzeHWmKg28",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EvoQTnpw-FE"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-22T11:58:29Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "How We Ranked #1 in Google in Less Than 24 Hours",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EvoQTnpw-FE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EvoQTnpw-FE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EvoQTnpw-FE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-22T11:58:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "k1h23H4tSYSIusMFtXYgUvxIUc4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "p1PaWuTloGo"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-21T15:05:27Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "SEO Isn\u2019t Dead, But Search Has Changed Forever",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p1PaWuTloGo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p1PaWuTloGo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p1PaWuTloGo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-21T15:05:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_H6-Ovgs_l86zXyOC1hmzR7gsAA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QXDPJ53Wvfk"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-20T14:51:21Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "Google Rankings Don\u2019t Mean What They Used To",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QXDPJ53Wvfk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QXDPJ53Wvfk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QXDPJ53Wvfk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-20T14:51:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0BsDK4VThODHROeSghKy0sr9Aq8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mB0QuXEv_sg"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-30T17:03:40Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "This is the #1 AI SEO ranking factor (for 2026)",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mB0QuXEv_sg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mB0QuXEv_sg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mB0QuXEv_sg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-30T17:03:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "s5YofxkWEMuve_ZIrBxn3hsXhMg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qhxbngpPXYQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-25T17:16:25Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "Important Change to SEO (New Google Algorithm Update)",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qhxbngpPXYQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qhxbngpPXYQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qhxbngpPXYQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-25T17:16:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7OMspMNY9GACnnaXednjyK_FrHA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "53h_-LoEGiw"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-17T13:47:53Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "Local SEO &amp; AI Search Masterclass for 2026",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/53h_-LoEGiw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/53h_-LoEGiw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/53h_-LoEGiw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-17T13:47:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2aYVxSD43rClrip1YM9WsbSV17I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HzgMpTVJpz0"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-14T20:49:34Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "How to ACTUALLY Learn AI SEO (in 2026)",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HzgMpTVJpz0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HzgMpTVJpz0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HzgMpTVJpz0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-14T20:49:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JdLJRUg3W88YWx_JnZHd1-u76fo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OAJL2ob_Lks"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-13T11:49:47Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "Why GEO and AEO Are Mostly Rebranded SEO",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OAJL2ob_Lks/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OAJL2ob_Lks/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OAJL2ob_Lks/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-13T11:49:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3zeTHiv8Y6vph1Zc6gLil3RG6tg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s-H9QifusJM"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-12T14:24:18Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "I Tested 4 AI Agents on a Real SEO Task \u2014 Here&#39;s the Best One",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s-H9QifusJM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s-H9QifusJM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s-H9QifusJM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-12T14:24:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qftOEQ3m4BhQBFuNhWHrHB3mH5k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xyqFSy7k9HU"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-11T14:14:36Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "Most AI SEO Advice Is Wrong. Here\u2019s Why",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xyqFSy7k9HU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xyqFSy7k9HU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xyqFSy7k9HU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-11T14:14:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Na5XcqfmMMeMYFjq6YMSv9eNUTk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lkFA-aBN_LM"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-10T14:18:31Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "SEO Is Bigger Than Google Now. Here\u2019s the New Playbook",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lkFA-aBN_LM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lkFA-aBN_LM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lkFA-aBN_LM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-10T14:18:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_-PC0AKIZuGuToog39OoqzUehXo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Fh_54G6p_cs"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-03T17:45:51Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "If I Had to Do Keyword Research in 2026, I&#39;d Do This",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Fh_54G6p_cs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Fh_54G6p_cs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Fh_54G6p_cs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-03T17:45:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rih23D6rjug1nbZKOfaNAFh81WU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AaSyn9YSNYQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-02-11T12:43:55Z",
+                "channelId": "UCNEsahyXxNJvYNsMhru-UzQ",
+                "title": "How to Create SEO Content That Actually Ranks in 2026",
+                "description": "Get 10x more AI search visibility: https://www.rankability.com/start/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AaSyn9YSNYQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AaSyn9YSNYQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AaSyn9YSNYQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathan Gotch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-02-11T12:43:55Z"
+            }
+        }
+    ]
+}
