@@ -1,93 +1,154 @@
-# 100Hires Portfolio Project
+# AI-Powered SEO Content Production Research
 
 ## Overview
 
-This repository documents the portfolio project completed as part of the 100Hires application process.
+This repository contains a structured research workflow for identifying, collecting, and organizing knowledge from leading practitioners in AI-powered SEO, content marketing, and AI search optimization.
 
-The objective was to set up a modern AI-assisted development environment, configure the required tools, create a public GitHub repository, and document the process.
+The project demonstrates automated data collection using the YouTube Data API, structured research documentation, and a scalable repository architecture designed to support future AI-powered SEO playbook development.
 
 ---
 
-## Tools Installed
+## Objectives
 
-- Cursor IDE
-- Claude Code Extension
-- OpenAI Codex Extension
+- Identify leading practitioners in AI-powered SEO and content marketing.
+- Automate YouTube channel and video metadata collection.
+- Organize research into a structured, reproducible repository.
+- Build reusable research assets for future AI SEO playbook generation
+
+---
+
+## Selected Experts
+
+- Ross Simmonds
+- Rand Fishkin
+- Bernard Huang
+- Nathan Gotch
+- Matt Diggity
+- Lily Ray
+- Aleyda Solis
+- Wil Reynolds
+- Marie Haynes
+- Julian Goldie
+
+---
+
+## Repository Structure
+
+```
+.
+├── assets/
+├── config/
+│   └── experts.json
+│
+├── data/
+│   ├── raw/
+│   │   └── youtube/
+│   │       ├── channels/
+│   │       └── videos/
+│   └── processed/
+│
+├── research/
+│   ├── sources.md
+│   ├── youtube-analysis/
+│   ├── youtube-transcripts/
+│   ├── linkedin-posts/
+│   └── other/
+│
+├── scripts/
+│   └── youtube/
+│       ├── fetch_channels.py
+│       ├── fetch_videos.py
+│       └── fetch_transcripts.py
+│
+└── README.md
+```
+
+---
+
+## Data Collection Workflow
+
+```
+Expert Selection
+        │
+        ▼
+Configuration (experts.json)
+        │
+        ▼
+YouTube Data API
+        │
+        ▼
+Channel Discovery
+        │
+        ▼
+Latest Video Collection
+        │
+        ▼
+Structured JSON Storage
+        │
+        ▼
+Research Analysis
+        │
+        ▼
+Future AI SEO Playbook
+```
+
+---
+
+## Current Project Outputs
+
+- Research repository covering 10 AI SEO experts
+- Automated YouTube channel discovery
+- Automated YouTube video metadata collection
+- Structured JSON datasets
+- Individual expert research notes
+- Organized research directory structure
+- Reproducible Python data collection scripts
+
+---
+
+## Technologies
+
+- Python
+- YouTube Data API v3
+- JSON
+- Requests
+- python-dotenv
+- Git
 - GitHub
 
 ---
 
-## Setup Process
+## Current Status
 
-### 1. Installed Cursor IDE
-- Downloaded and installed the latest stable version of Cursor.
-- Verified that the application was running correctly.
+### Completed
 
-### 2. Configured Claude Code
-- Installed the Claude Code extension.
-- Authenticated using my Anthropic account.
-- Verified that the extension was functioning correctly.
+- Expert identification
+- YouTube channel discovery
+- Latest video collection
+- Structured metadata storage
+- Research organization
+- Initial expert analysis
 
-### 3. Configured OpenAI Codex
-- Installed the Codex extension.
-- Authenticated using my OpenAI account.
-- Verified that Codex was accessible within Cursor.
+### Planned
 
-### 4. Created a GitHub Repository
-- Created a public GitHub repository.
-- Connected the local project with the remote repository.
-
-### 5. Repository Setup
-- Cloned the repository into Cursor.
-- Updated the README with project documentation.
-- Prepared the repository for version control.
+- Automated transcript collection
+- LinkedIn research automation
+- Blog collection
+- Newsletter collection
+- AI-assisted summarization
+- Knowledge graph generation
+- Topic clustering
+- AI SEO playbook generation
 
 ---
 
-## Challenges Encountered
-
-### Cursor Interface
-
-Initially, I was unable to locate the Extensions panel because I was using Cursor's home screen rather than an opened workspace. It was mainly beacuse Cursor's interface has had significant changes from what it was last year.
-
-**Resolution**
-
-After opening a project folder, the full editor interface became available, allowing me to install and configure both required extensions successfully.
-
----
-
-## Skills Demonstrated
-
-- Following technical documentation
-- Installing and configuring development tools
-- GitHub repository management
-- Markdown documentation
-- Problem solving and troubleshooting
-- Learning unfamiliar software independently
-
----
-
-## Outcome
-
-Successfully completed all setup tasks requested for the portfolio project, including:
-
-- Cursor installation
-- Claude Code configuration
-- OpenAI Codex configuration
-- GitHub repository creation
-- Repository documentation
-
-This repository serves as a record of the completed setup process.
-
----
-
----
-
-**Author**
+## Author
 
 **G. Krishna Gopal**
 
+B.Sc. (Hons.) Agriculture  
+Tamil Nadu Agricultural University
+LinkedIn: https://www.linkedin.com/in/g-krishna-gopal-6ab785334/
 Email: krishna93175@gmail.com
 
-LinkedIn:
-https://www.linkedin.com/in/g-krishna-gopal-6ab785334/
+Created as part of the **100Hires AI Research Challenge**.
