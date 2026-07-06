@@ -6,7 +6,6 @@
       "created_by": "G. Krishna Gopal",
       "last_updated": "2026-07-06"
     },
-  
     "research": {
       "topic": "AI-Powered SEO Content Production",
       "selection_criteria": [
@@ -18,53 +17,43 @@
         "Useful for future playbook creation"
       ]
     },
-  
     "experts": [
-  
+      {
+        "id": 1,
+        "priority": 1,
+        "name": "Ross Simmonds",
+        "company": "Foundation Marketing",
+        "role": "Founder & CEO",
+        "status": "verified",
+        "platforms": {
+          "website": "https://rosssimmonds.com",
+          "company": "https://foundationinc.co",
+          "linkedin": "https://www.linkedin.com/in/rosssimmonds",
+          "youtube": "",
+          "newsletter": "https://rosssimmonds.com"
+        },
+        "primary_focus": [
+          "AI-powered Content Marketing",
+          "Content Distribution",
+          "SEO",
+          "B2B Marketing",
+          "Content Repurposing"
+        ],
+        "content_sources": {
+          "website": true,
+          "blog": true,
+          "linkedin": true,
+          "youtube": true,
+          "newsletter": true,
+          "podcast": true
+        },
+        "api_collection": {
+          "youtube": "pending",
+          "linkedin": "manual",
+          "website": "manual",
+          "newsletter": "manual"
+        },
+        "notes": "Founder of Foundation Marketing and Distribution.ai. Strong emphasis on 'Create Once, Distribute Forever', AI-assisted content workflows, Reddit, YouTube, and B2B content distribution."
+      }
     ]
-  }"experts": [
-  {
-    "id": 1,
-    "priority": 1,
-
-    "name": "Ross Simmonds",
-    "company": "Foundation Marketing",
-    "role": "Founder & CEO",
-
-    "status": "verified",
-
-    "platforms": {
-      "website": "https://rosssimmonds.com",
-      "company": "https://foundationinc.co",
-      "linkedin": "https://www.linkedin.com/in/rosssimmonds",
-      "youtube": "",
-      "newsletter": "https://rosssimmonds.com"
-    },
-
-    "primary_focus": [
-      "AI-powered Content Marketing",
-      "Content Distribution",
-      "SEO",
-      "B2B Marketing",
-      "Content Repurposing"
-    ],
-
-    "content_sources": {
-      "website": true,
-      "blog": true,
-      "linkedin": true,
-      "youtube": true,
-      "newsletter": true,
-      "podcast": true
-    },
-
-    "api_collection": {
-      "youtube": "pending",
-      "linkedin": "manual",
-      "website": "manual",
-      "newsletter": "manual"
-    },
-
-    "notes": "Founder of Foundation Marketing and Distribution.ai. Strong emphasis on 'Create Once, Distribute Forever', AI-assisted content workflows, Reddit, YouTube, and B2B content distribution."
   }
-]

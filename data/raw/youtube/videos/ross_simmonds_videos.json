@@ -1,0 +1,692 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "YO6ZbCK3LgW96P1YS6646lsse_4",
+    "nextPageToken": "CBQQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+        "totalResults": 399,
+        "resultsPerPage": 20
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "W7SzgjV_jIleHVrbfloDh1CNyPg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4IxQ5I19iV0"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-05T16:30:18Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "AI Belongs in HR",
+                "description": "Most companies treat AI as a tech tool, but treating it like a crew member in a human and non-human workforce changes ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4IxQ5I19iV0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4IxQ5I19iV0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4IxQ5I19iV0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-05T16:30:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PhV9dcxDDoA34lqcqzSgF0NFIGs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LcL-JfYyJZc"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-04T15:15:20Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "How a $200 App Disintegrated a 15-Hour Weekly Task",
+                "description": "Executive's weekly workflow was completely transformed when a $200 subscription eliminated a repetitive 15-hour task. Catch the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LcL-JfYyJZc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LcL-JfYyJZc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LcL-JfYyJZc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-04T15:15:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FzwwwmtXTmEEo4dHIk-q9KBHHHU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Tw0BjvG7ivA"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-30T16:15:26Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "Build A Private Slack or Discord Community",
+                "description": "Building a private Slack or Discord community is a highly effective, underrated strategy for early-stage companies, SaaS founders, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Tw0BjvG7ivA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Tw0BjvG7ivA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Tw0BjvG7ivA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-30T16:15:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "O9NKXG1x_6GqX1iUm7rsCXH_RGI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iodBGPQnk1k"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-29T16:45:17Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "The Website Section That Turns Visitors Into Buyers",
+                "description": "An interactive resource center can completely shift how people view your website, turning it into a trusted asset that captures ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iodBGPQnk1k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iodBGPQnk1k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iodBGPQnk1k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-29T16:45:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ov9cwUDxLLpkc8rayy2a_ZFQEL8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JiQOWWjxvXQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-28T15:30:14Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "Tinder Spent $60M To Get You Off Tinder",
+                "description": "Tinder's massive $60 million pivot toward in-person events reveals a powerful experimental marketing strategy that signals a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JiQOWWjxvXQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JiQOWWjxvXQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JiQOWWjxvXQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-28T15:30:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RZXqjxIE5Fea8v7Clyk0OKu0x9o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PSu5NCwCYL0"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-27T18:30:17Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "AI Scales What You&#39;ve Already Got: Matt Symes on Rewiring How You Operate",
+                "description": "In this episode of The Ross Simmonds Show, Ross sits down with Matt Symes, founder of Symplicity, to unpack why AI ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PSu5NCwCYL0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PSu5NCwCYL0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PSu5NCwCYL0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-27T18:30:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tL6KwX_dDhticHVnCyZhRx07DVg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ucPyvuGi6O0"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-27T16:35:11Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "Is Google Hiding Your Traffic",
+                "description": "Google is shifting away from generic commodity content, making unique, research-backed information essential to winning in the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ucPyvuGi6O0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ucPyvuGi6O0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ucPyvuGi6O0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-27T16:35:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "i34M2i8vFalasJpMWBpNkTlnCZ8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "B3gaHASC2C4"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-26T17:15:25Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "The Agency Model Completely Shifted",
+                "description": "As AI commoditizes knowledge, B2B marketing teams are abandoning traditional agency retainers for a new model that prioritizes ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B3gaHASC2C4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B3gaHASC2C4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B3gaHASC2C4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-26T17:15:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xGwShj3M0Dd0GBEIE1nLeUcuD-c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dk94evvCibA"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-25T18:00:17Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "The Business Skill Nobody Puts On Their Resume",
+                "description": "More business deals are closed on the golf course than in the boardroom, exploring how the game reveals a person's true ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dk94evvCibA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dk94evvCibA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dk94evvCibA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-25T18:00:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bxq_yP6XHR37A1OIK4N19b7UDjU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "awGkhFhbdPY"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-24T14:00:14Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "The Real Reason Leaders Resist AI (And How Neuroscience Fixes It)",
+                "description": "Understand how the concept of VUCA (volatility, uncertainty, complexity, and ambiguity) causes leaders to resist new technology, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/awGkhFhbdPY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/awGkhFhbdPY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/awGkhFhbdPY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-24T14:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6RdqiL62Pk-_wEhGQxaEfGg3GSY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UTsad7zzFlM"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-23T17:00:10Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "Why Small Companies Will Beat Big Ones at AI",
+                "description": "Embracing AI requires fundamental workflow integration rather than just treating it as another software add-on. Catch the full ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UTsad7zzFlM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UTsad7zzFlM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UTsad7zzFlM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-23T17:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fu-jNk0_yQ-yWaUCiRP9dIFeGlI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Fxq20b3fK2U"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-22T16:30:02Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "Why Your AI Output Sounds Like Everyone Else",
+                "description": "AI works best when it amplifies your own unique thoughts and approach. To get the high-quality results you want from AI tools, you ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Fxq20b3fK2U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Fxq20b3fK2U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Fxq20b3fK2U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-22T16:30:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "m0WbV1VoFhJbVT3dkSXJH99rd78",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3al2EFssf5E"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-21T14:29:38Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "Your Most Profitable Marketing Channel is Currently Invisible",
+                "description": "Why traffic from AI search engines like ChatGPT and Claude converts 5x better than organic search and why your current ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3al2EFssf5E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3al2EFssf5E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3al2EFssf5E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-21T14:29:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "k-l3TJ_2NukB9_R-lscW1hF-YKw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2FESXe2z_Io"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-20T15:30:10Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "Why the Average SaaS CMO Lasts Less Than 2 Years",
+                "description": "The critical reason why 85% of B2B marketers are struggling to keep their jobs and how redefining the CMO role is the only way to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2FESXe2z_Io/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2FESXe2z_Io/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2FESXe2z_Io/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-20T15:30:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oCQh6-g0-cWOSwviE6Tf2ZNjZro",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5DxwBti6yQY"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-20T13:45:18Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "All In on Claude: Travis Tallent on Building AI Systems That Actually Scale",
+                "description": "In this episode of The Ross Simmonds Show, I sit down with Travis Tallent of DayNova to unpack how organizations can use AI ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5DxwBti6yQY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5DxwBti6yQY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5DxwBti6yQY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-20T13:45:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zwE-R8o3kmxYCW_As9_MnbMRwx8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BUZQeQ2w8iQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-19T17:10:09Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "The Best Business Advice I Ever Got Wasn&#39;t From a Consultant\u2014It Was From a Six-Year-Old",
+                "description": "A simple puzzle provides a powerful lesson in why leaders should start looking for the \"edge pieces\" of their business challenges.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BUZQeQ2w8iQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BUZQeQ2w8iQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BUZQeQ2w8iQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-19T17:10:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "t_4-z1wdelG69lYJb1MYt-TLac0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wXOou9LE-hA"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-18T15:43:10Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "The $1.15 Distribution Tactic Most B2B SaaS Brands Are Completely Ignoring",
+                "description": "B2B SaaS brands are achieving a 6x return on ad spend and 90% cheaper clicks by shifting their strategy to a platform that ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wXOou9LE-hA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wXOou9LE-hA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wXOou9LE-hA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-18T15:43:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sB-Yu8SBm6-t29FpNfcFFT0Wdx8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ROSrCLCJpks"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-17T14:35:16Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "The One Mistake Making Your B2B Marketing Invisible",
+                "description": "Successful B2B brands win the game of attention by treating their audience like humans rather than robotic job titles, recognizing ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ROSrCLCJpks/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ROSrCLCJpks/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ROSrCLCJpks/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-17T14:35:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mX7PuyElEgFVGXH5YRcvaoK4fwQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fxvYJKQjkUE"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-16T17:00:20Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "Your Marketing Agency Might Be Taking Advantage of You",
+                "description": "Five essential questions every CMO should ask to determine if their marketing agency is actually driving results or just billing for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fxvYJKQjkUE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fxvYJKQjkUE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fxvYJKQjkUE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-16T17:00:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zp8t2x1pcyBuVi2LBWKIpctX16c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yDl0061xw50"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-16T16:38:29Z",
+                "channelId": "UCtg49RXJ7nSfEudai4yyDcA",
+                "title": "I think it\u2019s very interesting that so many AI companies are investing in events &amp; community roles..",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yDl0061xw50/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yDl0061xw50/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yDl0061xw50/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ross Simmonds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-16T16:38:29Z"
+            }
+        }
+    ]
+}
